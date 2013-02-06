@@ -16,3 +16,6 @@
 
 * 岡山Ruby, Ruby on Rails勉強会 https://sites.google.com/site/okayamaruby/
 
+## 倉敷市
+
+* 天領倉敷Scala http://tenryo-kurashiki-scala.appspot.com/
