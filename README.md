@@ -19,6 +19,8 @@
 
 # 広島県
 
+* Cocoa勉強会広島支部 http://kita.dyndns.org/wiki/?Cocoa%E5%8B%89%E5%BC%B7%E4%BC%9A%E5%BA%83%E5%B3%B6%E6%94%AF%E9%83%A8 不定期
+
 ## 広島市
 
 * 広島Ruby勉強会 http://hiroshimarb.github.com/ Hiroshima.rb 第一土曜日
