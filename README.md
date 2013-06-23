@@ -24,3 +24,7 @@
 ## 広島市
 
 * 広島Ruby勉強会 http://hiroshimarb.github.com/ Hiroshima.rb 第一土曜日
+
+# 長野県
+
+* NSEG http://nseg.jp/?FrontPage 毎月
