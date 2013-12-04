@@ -24,7 +24,7 @@
 ## 広島市
 
 * 広島Ruby勉強会 http://hiroshimarb.github.com/ Hiroshima.rb 第一土曜日
-* C++勉強会in広島 http://partake.in/events/5ddde1fe-88b7-4541-9f37-02cf4fa0284c　とりあえず単発(2014/01/11(土)の予定)
+* C++勉強会in広島 http://partake.in/events/5ddde1fe-88b7-4541-9f37-02cf4fa0284c とりあえず単発(2014/01/11(土)の予定)
 
 # 長野県
 
