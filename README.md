@@ -33,3 +33,7 @@
 # 金沢県
 
 * kanazawa.rb http://kzrb.org/
+
+# 沖縄県
+
+* Okinawa.rb http://ruby.okinawa/
