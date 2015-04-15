@@ -29,3 +29,11 @@
 # 長野県
 
 * NSEG http://nseg.jp/?FrontPage 毎月
+
+# 金沢県
+
+* kanazawa.rb http://kzrb.org/
+
+# 沖縄県
+
+* Okinawa.rb http://ruby.okinawa/
