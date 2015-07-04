@@ -29,6 +29,7 @@
 # 東京都
 
 * 表参道.rb http://omotesandorb.connpass.com/
+* よちよち.rb https://github.com/yochiyochirb/meetups
 
 # 長野県
 
