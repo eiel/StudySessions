@@ -45,6 +45,10 @@
 
 * kanazawa.rb http://kzrb.org/
 
+# 熊本県
+
+* 熊本Java勉強会 https://kumamotojava.doorkeeper.jp/
+
 # 沖縄県
 
 * Okinawa.rb http://ruby.okinawa/
