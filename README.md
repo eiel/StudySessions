@@ -30,6 +30,7 @@
 
 * 表参道.rb http://omotesandorb.connpass.com/
 * よちよち.rb https://github.com/yochiyochirb/meetups
+* shinjuku.rb https://github.com/Shinjuku-rb/meetups
 
 # 長野県
 
