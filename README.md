@@ -32,6 +32,10 @@
 * よちよち.rb https://github.com/yochiyochirb/meetups
 * shinjuku.rb https://github.com/Shinjuku-rb/meetups
 
+# 神奈川県
+
+* Kawasaki.rb http://kawasakirb.github.io/
+
 # 長野県
 
 * NSEG http://nseg.jp/?FrontPage 毎月
