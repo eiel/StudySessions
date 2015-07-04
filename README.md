@@ -26,6 +26,10 @@
 * 広島Ruby勉強会 http://hiroshimarb.github.com/ Hiroshima.rb 第一土曜日
 * C++勉強会in広島 http://partake.in/events/5ddde1fe-88b7-4541-9f37-02cf4fa0284c とりあえず単発(2014/01/11(土)の予定)
 
+# 東京都
+
+* 表参道.rb http://omotesandorb.connpass.com/
+
 # 長野県
 
 * NSEG http://nseg.jp/?FrontPage 毎月
